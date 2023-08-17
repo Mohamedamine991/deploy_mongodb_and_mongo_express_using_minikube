@@ -16,8 +16,8 @@ Follow these steps to set up the Kubernetes cluster with MongoDB and Mongo Expre
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Mohamedamine991/deploy_mongodb_and_mongo_express_using_minikube.git
+   cd deploy_mongodb_and_mongo_express_using_minikube
 2. **Start Minikube:**
 
    Start Minikube with the necessary configuration:
